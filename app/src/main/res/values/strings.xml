@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">LEGO</string>
+    <string name="btn_1">SEARCH</string>
+    <string name="btn_2">CONFIG</string>
+    <string name="btn_3">REGISTER</string>
+
+</resources>
