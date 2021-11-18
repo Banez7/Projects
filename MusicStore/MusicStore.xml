@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><MusicStore>
+    <style name="Rock">
+        <artist>
+            <name>Rockero</name>
+            <album_title title="DiscoRock">
+                <songs>
+                    <song1>song1</song1>
+                    <song2>song2</song2>
+                    <song3>song3</song3>
+                    <song4>song4</song4>
+                </songs>
+            </album_title>
+        </artist>
+        <artist>
+            <name>Rockero2</name>
+            <album_title title="disco1">
+                <songs>
+                    <song1>song1</song1>
+                </songs>
+            </album_title>
+            <album_title title="disco2">
+                <songs>
+                    <song1>song1</song1>
+                </songs>
+            </album_title>
+            <album_title title="disco3">
+                <songs>
+                    <song1>song1</song1>
+                </songs>
+            </album_title>
+        </artist>
+    </style>
+    <style name="Pop">
+        <artist>
+            <name>kevin</name>
+            <album_title title="Disco">
+                <songs>
+                    <song3>song</song3>
+                    <song4>song1</song4>
+                </songs>
+            </album_title>
+        </artist>
+        <artist>
+            <name>Kevin2</name>
+            <album_title title="discoKevin">
+                <songs>
+                    <song1>song1</song1>
+                </songs>
+            </album_title>
+        </artist>
+    </style>
+</MusicStore>
